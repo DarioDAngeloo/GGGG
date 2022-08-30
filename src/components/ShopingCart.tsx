@@ -23,7 +23,7 @@ export const ShopingCart = ({ isOpen }: ShopingCartProps) => {
               className="cursor-pointer mt-6 flex gap-3 justify-center hover:text-blue-800/70 font-bold"
             >
               <span>Close</span>
-              <img src="../public/img/svg.svg" alt="logo" />
+              <img src="/img/svg.svg" alt="logo" />
             </div>
             <div>
               {cartItems.map((item) => (

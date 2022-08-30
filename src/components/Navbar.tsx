@@ -39,7 +39,7 @@ export const Navbar = () => {
             className="mr-5 flex items-center cursor-pointer justify-center relative "
             onClick={openCart}
           >
-            <img src="../public/img/svg.svg" alt="logo" />
+            <img src="img/svg.svg" alt="logo" />
             <div className="bg-white  text-blue-800 font-bold px-2 text-sm rounded-full flex justify-center items-center absolute translate-y-3 translate-x-5">
               {cartQuantity}
             </div>
