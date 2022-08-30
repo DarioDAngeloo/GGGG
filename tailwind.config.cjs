@@ -7,7 +7,7 @@ module.exports = {
         monserrat: "Montserrat",
       },
       backgroundImage: {
-        plane: "url('./public/img/rr.png')",
+        plane: "url('img/rr.png')",
       },
     },
   },
