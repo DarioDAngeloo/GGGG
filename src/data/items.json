@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes",
+    "price": 170.99,
+    "imgUrl": "/img/g.png"
+  },
+  {
+    "id": 2,
+    "name": "Coffe",
+    "price": 7.29,
+    "imgUrl": "/img/coffe.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Food/day",
+    "price": 22.5,
+    "imgUrl": "/img/food.png"
+  },
+  {
+    "id": 4,
+    "name": "日本 家",
+    "price": 600,
+    "imgUrl": "/img/japan.jpg"
+  }
+]
